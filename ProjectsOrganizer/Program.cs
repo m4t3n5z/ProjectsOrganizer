@@ -18,7 +18,7 @@ namespace ProjectsOrganizer
               "5-Wyjdz z apki");
 
             var ifExit = false;
-            string text = System.IO.File.ReadAllText(@"../../../data.txt");
+            string text = System.IO.File.ReadAllText(@"../../ProjectsData/DATA.txt");
             while (!ifExit)
             {
                 var option = int.Parse(Console.ReadLine());

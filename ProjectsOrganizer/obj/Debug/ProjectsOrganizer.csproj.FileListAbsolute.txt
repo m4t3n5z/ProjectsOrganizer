@@ -1,0 +1,7 @@
+C:\Moje\Programowanie\Console\ProjectsOrganizer\ProjectsOrganizer\ProjectsOrganizer\bin\Debug\ProjectsOrganizer.exe.config
+C:\Moje\Programowanie\Console\ProjectsOrganizer\ProjectsOrganizer\ProjectsOrganizer\bin\Debug\ProjectsOrganizer.exe
+C:\Moje\Programowanie\Console\ProjectsOrganizer\ProjectsOrganizer\ProjectsOrganizer\bin\Debug\ProjectsOrganizer.pdb
+C:\Moje\Programowanie\Console\ProjectsOrganizer\ProjectsOrganizer\ProjectsOrganizer\obj\Debug\ProjectsOrganizer.csprojAssemblyReference.cache
+C:\Moje\Programowanie\Console\ProjectsOrganizer\ProjectsOrganizer\ProjectsOrganizer\obj\Debug\ProjectsOrganizer.csproj.CoreCompileInputs.cache
+C:\Moje\Programowanie\Console\ProjectsOrganizer\ProjectsOrganizer\ProjectsOrganizer\obj\Debug\ProjectsOrganizer.exe
+C:\Moje\Programowanie\Console\ProjectsOrganizer\ProjectsOrganizer\ProjectsOrganizer\obj\Debug\ProjectsOrganizer.pdb
