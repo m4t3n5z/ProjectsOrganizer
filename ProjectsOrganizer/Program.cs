@@ -15,7 +15,7 @@ namespace ProjectsOrganizer
               "2-Dodaj projekt\n" +
               "3-Usun projekt\n" +
               "4-Dodaj update\n" +
-              "5-Wyjdz z apki");
+              "5-Wyjdz z apki\n");
 
             var ifExit = false;
             string text = System.IO.File.ReadAllText(@"../../ProjectsData/DATA.txt");
